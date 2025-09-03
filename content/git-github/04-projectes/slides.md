@@ -70,19 +70,35 @@
 
 ---
 
-## Avantatges de Scrum
+- GitHub Pages
+- Actions
+- Wiki
+- Insights
+- Codespaces
+- Copilot
+- Forks
 
-- Flexibilitat per al canvi
-- Reducció del temps per poder veure el producte, fins i tot sense estar acabat
-- Millor qualitat del software
-- Millor productivitat
-- Millors estimacions de temps
-- Reducció de riscos
+---
+
+## Altres eines de GitHub
+
+- **Issues**: per informar d'errors, sol·licitar noves funcionalitats o fer preguntes.
+- **Pull requests**: per proposar canvis al projecte.
+- **Actions**: per automatitzar el flux de treball.
+- **Projects**: per organitzar i prioritzar la feina.
+- **Wiki**: per documentar el projecte.
+- **Insights**: per analitzar el projecte.
+
+---
+
+## GitHub Project Management
+
+<!-- markdownlint-disable MD033 -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oPQgFxHcjAw?si=Vnc_AEurpX6E4dje" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
 ## 🔗 Enllaços
 
-- [Scrum: The Art of Doing Twice the Work in Half the Time (Jeff Sutherland)](https://amzn.eu/d/fBbLyZd)
-- [Mastering Professional Scrum (Ockerman Stephanie, Reindl Simon)](https://amzn.eu/d/781dVum)
-- [Essential Scrum: A Practical Guide to the Most Popular Agile Process (Kenneth S. Rubin)](https://amzn.eu/d/aFBOZ14)
+- [Using Projects for feature planning (Youtube)](https://www.youtube.com/watch?v=yFQ-p6wMS_Y)
