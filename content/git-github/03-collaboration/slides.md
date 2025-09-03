@@ -61,7 +61,7 @@
   - Assignar tasques als membres de l'equip.
 - Cada issue pot tenir:
   - **Títol i descripció**
-  - **Etiquetes** (bug, enhancement, documentation…)
+  - **Etiquetes** (bug, enhancement, documentation...)
   - **Assignacions** a usuaris
   - **Comentaris i discussions**
 
