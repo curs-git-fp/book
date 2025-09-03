@@ -110,8 +110,6 @@
 - Ideal per documentació, blogs, portafolis i projectes educatius.
 - Exemple: un `README.md` es pot convertir en una web estàtica.
 
-![GitHub Pages](./img/github_pages.png)
-
 ---
 
 ## ⚙️ GitHub Actions
@@ -122,8 +120,6 @@
   - Compilar i executar tests.
   - Desplegar aplicacions.
   - Publicar paquets o pàgines web.
-
-![GitHub Actions](./img/github_actions.png)
 
 ---
 
@@ -165,14 +161,14 @@
 - Integrat a **VS Code, JetBrains i Neovim**.
 - Pot augmentar la productivitat, però cal revisar sempre el codi suggerit.
 
-![GitHub Copilot](./img/github_copilot.png)
-
 ---
 
 ## 🔗 Enllaços
 
-- [GitHub Docs: Fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
-- [GitHub Docs: About pull requests](https://docs.github.com/en/pull-requests)
-- [GitHub Docs: About issues](https://docs.github.com/en/issues)
-- [GitHub Docs: About discussions](https://docs.github.com/en/discussions)
-- [GitHub Flow](https://docs.github.com/en/get-started/using-git/github-flow)
+- [Fork a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+- [Pull requests documentation](https://docs.github.com/en/pull-requests)
+- [GitHub Issues documentation](https://docs.github.com/en/issues)
+- [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow)
+- [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
+- [GitHub Actions documentation](https://docs.github.com/en/actions)
+- [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/quickstart)
