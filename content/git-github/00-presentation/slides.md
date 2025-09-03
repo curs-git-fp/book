@@ -34,8 +34,8 @@
 ## Temes
 
 1. **Git** i **GitHub**. Sistemes de control de versions
-2. Col·laboració amb **GitHub**
-3. Llenguatge de marques **Markdown**
+2. Llenguatge de marques **Markdown**
+3. Col·laboració amb **GitHub**
 4. Gestió de projectes amb **GitHub**
 5. **GitHub Classroom**
 6. Generació de material educatiu amb **mdBook** i **reveal.js**
