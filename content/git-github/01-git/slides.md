@@ -291,29 +291,9 @@ git rebase <branch_name>
 
 ---
 
-## Altres eines de GitHub
-
-- **Issues**: per informar d'errors, sol·licitar noves funcionalitats o fer preguntes.
-- **Pull requests**: per proposar canvis al projecte.
-- **Actions**: per automatitzar el flux de treball.
-- **Projects**: per organitzar i prioritzar la feina.
-- **Wiki**: per documentar el projecte.
-- **Insights**: per analitzar el projecte.
-
----
-
-## GitHub Project Management
-
-<!-- markdownlint-disable MD033 -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oPQgFxHcjAw?si=Vnc_AEurpX6E4dje" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- markdownlint-enable MD033 -->
-
----
-
 ## 🔗 Enllaços
 
 - [Git & GitHub Crash Course For Beginners (Youtube)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [Using Projects for feature planning (Youtube)](https://www.youtube.com/watch?v=yFQ-p6wMS_Y)
 - [Tools & Concepts for Mastering Version Control with Git (Youtube)](https://www.youtube.com/watch?v=Uszj_k0DGsg&t=2s)
 - [ProGit book](https://git-scm.com/book/en/v2)
 - [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
