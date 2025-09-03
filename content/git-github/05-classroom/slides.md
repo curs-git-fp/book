@@ -64,7 +64,7 @@
 
 ---
 
-## Recursos útils
+## 🔗 Enllaços
 
 - [GitHub Classroom](https://classroom.github.com/)
 - [Guia per a professors](https://docs.github.com/education/manage-coursework-with-github-classroom/teach-with-github-classroom)
