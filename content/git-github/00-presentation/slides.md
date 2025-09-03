@@ -2,16 +2,32 @@
 
 ---
 
-## Informació de l'assignatura
+## Informació del curs
 
-- **Nom**: Seguretat del Software
-- **Titulació**: 613 - GTT2 - Grau d'Enginyeria Telemàtica (Pla 2020)
-- **Codi**: 22660
-- **Tipus**: Optativa
-- **Crèdits**: 6.0
-- **Curs**: 4t
-- **Semestre**: Segon semestre
+- **Nom**: Git i GitHub
+- **Hores**: 20
 - **Professorat**: Miquel Àngel Cabot Nadal
+
+---
+
+## Objectius
+
+- Comprendre els conceptes fonamentals de control de versions amb **Git** (repositori, _commit_, _branch_, _merge_...).
+- Aprendre a inicialitzar i gestionar repositoris locals i remots mitjançant **Git** i **GitHub**.
+- Saber col·laborar en projectes compartits fent servir **GitHub** (_pull requests_, _issues_, _forks_...).
+- Configurar i utilitzar **GitHub Classroom** per a crear, distribuir i avaluar tasques de programació.
+- Redactar documentació tècnica utilitzant el llenguatge **Markdown** (_README.md_, instruccions, informes...).
+
+
+---
+
+## Continguts
+
+- Introducció al control de versions
+- **Git**: treball amb repositoris locals
+- **GitHub**: repositoris remots i col·laboració
+- **GitHub Classroom** per a docents i estudiants
+- **Markdown**: documentació clara i estructurada
 
 ---
 
@@ -27,50 +43,6 @@
 8. Desenvolupament segur de software
 9. Revisió del codi: testing i anàlisi
 10. Proves de penetració (Pentesting)
-
----
-
-![Temes](./img/topics.png)
-
----
-
-## Continguts
-
-### 🔥 Atacs de baix nivell
-
-- Trencament de la pila
-- Atacs de cadenes de format
-- Accés a la memòria obsoleta
-- Programació orientada al retorn (ROP)
-
-### 🛡️ Defenses contra atacs basats en memòria
-
-- _Stack canaries_
-- Dades no executables (W+X o DEP)
-- Aleatorització de disseny d'espai d'adreces (ASLR)
-- Aplicació de seguretat de memòria (p. ex., SoftBound)
-- Integritat del flux de control (CFI)
-
----v
-
-### 🏗️ Disseny segur
-
-- Modelatge d'amenaces
-- Principis de disseny de seguretat:
-  - Simplicitat
-  - Confiar amb reticència (_trust with reluctance_)
-  - Defensar en profunditat (_defend in depth_)
-- Exemples reals de dissenys bons i dolents
-
-### 🧪 Revisió de codi automatitzada
-
-- Anàlisi estàtica
-- Execució simbòlica
-- Proves de fuzz de caixa blanca
-
-### 🎯 Proves de penetració i fuzzing
-
-- Objectius, tècniques i eines
 
 ---
 
