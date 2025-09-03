@@ -33,65 +33,43 @@
 
 ## Temes
 
-1. Introducció a la seguretat del software
-2. Git i GitHub. Sistemes de control de versions
-3. Llenguatge de marques Markdown
-4. Metodologia Scrum
-5. Llenguatge C i vulnerabilitats de baix nivell
-6. Defensa contra exploits de baix nivell
-7. Programació en Rust
-8. Desenvolupament segur de software
-9. Revisió del codi: testing i anàlisi
-10. Proves de penetració (Pentesting)
+1. **Git** i **GitHub**. Sistemes de control de versions
+2. Llenguatge de marques **Markdown**
+3. Gestió de projectes amb **GitHub**
+4. **GitHub Classroom**
+5. Generació de material educatiu amb **mdBook** i **reveal.js**
 
 ---
 
-## Avaluació
+## Pràctiques
 
-- **Activitats pràctiques**: 60% de la nota fina
-  - Pràctica 1: Temes 1 a 4
-  - Pràctica 2: Temes 5 a 6
-  - Pràctica 3: Temes 7 a 8
-  - Pràctica 4: Temes 9 a 10
-- **Exàmens escrits**: 40% de la nota final
-  - Exàmen 1r parcial: Temes 1 a 6
-  - Exàmen 2n parcial: Temes 7 a 10
-- **Exàmen de recuperació**
+- Pràctica 1: Git i GitHub
+- Pràctica 2: Markdown
+- Pràctica 3: Projecte amb GitHub
+- Pràctica 4: GitHub Classroom
+- Pràctica 5: Aplicació didàctica
 
 ---
 
-## Programació en Rust
+## Calendari de sessions
 
-- Algunes pràctiques es faran utilitzant el llenguatge Rust
-- **Llibre recomanat**:
-  - [The Rust Programming Language](https://doc.rust-lang.org/book/), Steve Klabnik i Carol Nichols
+- Divendres **17 d'octubre** de 10 a 12h
+- Divendres **24 d'octubre** de 10 a 12h
+- Divendres **31 d'octubre** de 10 a 12h
+- Divendres **7 de novembre** de 10 a 12h
+- Divendres **14 de novembre** de 10 a 12h
+- **Més 10 hores a distància**
 
-![The Rust Programming Language](./img/rust_book.png)
+---v
 
----
+- Les videoconferències de la formació  SERAN gravades
+- És obligatori tenir en tot moment la càmara connectada.
+- S'ha de participar de manera activa al curs de formació (no es poden realitzar altres activitats al mateix temps)
 
-## Llibres recomanats per aquesta assignatura
-
-- _Designing Secure Software: A Guide for Developers_, Loren Kohnfelder
-- _Writing Secure Code_, David LeBlanc i Michael Howard
-- _Penetration Testing: A Hands-On Introduction to Hacking_, Georgia Weidman
-
-![Llibres per assignatura](./img/books1.png)
-
----
-
-## Llibres imprescindibles per a programadors
-
-- _Code Complete: A Practical Handbook of Software Construction, Second Edition_, Steve McConnell
-- _The Pragmatic Programmer: Your Journey to Mastery_, David Thomas i Andrew Hunt
-- _Clean Code: A Handbook of Agile Software Craftsmanship_, Robert C. Martin
-
-![Llibres per programadors](./img/books2.png)
+> És necessari complir amb el 85% d'assistència i entregar l'Aplicació didàctica per certificar les hores.
 
 ---
 
 ## 🔗 Enllaços d'interès
 
-- [Informació de l'assignatura](https://estudis.uib.cat/estudis-de-grau/grau/telematica/GTT2-P/22660/index.html)
-- [Cronograma](https://academic.uib.es/pds/consultaPublica/look[conpub]InicioPubHora?entradaPublica=true&lock=true&idiomaPais=ca.ES&planDocente=2024&centro=9399&estudio=331&planEstudio=613&curso=4&trimestre=S/2&asignatura22660=22660&&grupo0=4&consultarAsignaturaGrupoPrivada=S)
-- [Guia docent](https://academic.uib.es/doa/consultaPublica/look%5bconpub%5dMostrarPubGuiaDocAs?entradaPublica=true&idiomaPais=ca.ES&_anoAcademico=2024&_codAsignatura=22660)
+- [Classroom de l'assignatura](https://classroom.google.com/c/NzcwMTA5NTY4NjE1)
