@@ -12,23 +12,6 @@
 
 ---
 
-## Instal·lació de Git
-
-- **Windows**: descarregar des de [https://git-scm.com/download/win](https://git-scm.com/download/win)
-- **Linux**: executar la comanda
-
-```sh
-sudo apt install git
-```
-
-- **macOS**: instal·lar Xcode des de l'App Store i executar
-
-```sh
-xcode-select --install
-```
-
----
-
 ## Configuració de Git
 
 - **Nom i correu electrònic**: cal configurar el nom i correu electrònic per a identificar els commits.

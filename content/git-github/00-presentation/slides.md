@@ -71,6 +71,35 @@
 
 ---
 
+## 💻 Software recomanat
+
+### Git
+
+- **Windows**: descarregar des de [https://git-scm.com/download/win](https://git-scm.com/download/win)
+- **Linux**: executar la comanda
+
+```sh
+sudo apt install git
+```
+
+- **macOS**: instal·lar Xcode des de l'App Store i executar
+
+```sh
+xcode-select --install
+```
+
+---v
+
+### Editor de text (Visual Studio Code)
+
+- **Visual Studio Code**: descarregar des de [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
+- **Extensions recomanades**:
+  - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+  - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+  - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+---
+
 ## 🔗 Enllaços d'interès
 
 - [Classroom de l'assignatura](https://classroom.google.com/c/NzcwMTA5NTY4NjE1)
