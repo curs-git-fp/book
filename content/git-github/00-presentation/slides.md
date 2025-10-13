@@ -56,9 +56,9 @@
 
 - Divendres **17 d'octubre** de 10 a 12h
 - Divendres **24 d'octubre** de 10 a 12h
-- Divendres **31 d'octubre** de 10 a 12h
 - Divendres **7 de novembre** de 10 a 12h
 - Divendres **14 de novembre** de 10 a 12h
+- Divendres **21 de novembre** de 10 a 12h
 - **Més 10 hores a distància**
 
 ---v
