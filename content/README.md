@@ -4,7 +4,7 @@
 
 > **Direcció General de Formació Professional i Ordenació Educativa**
 >
-> **Professor**: Miquel Àngel Cabot ([miquel.cabot@gmail.com](mailto:miquel.cabot@gmail.com))
+> **Professor**: Miquel A. Cabot ([miquel.cabot@gmail.com](mailto:miquel.cabot@gmail.com))
 
 Apunts del curs **Git i GitHub** en format [mdBook](https://rust-lang.github.io/mdBook/), amb presentacions generades mitjançant [reveal-js](https://revealjs.com/).
 
