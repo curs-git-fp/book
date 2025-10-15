@@ -6,7 +6,7 @@
 
 - **Nom**: Git i GitHub
 - **Hores**: 20
-- **Professorat**: Miquel Àngel Cabot Nadal
+- **Professorat**: Miquel A. Cabot
 
 ---
 
