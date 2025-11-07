@@ -51,6 +51,12 @@
 
 ---
 
+### Exemple de issue (user story)
+
+![Issue d'exemple](./img/issue.png)
+
+---
+
 ## ✅ Bones pràctiques
 
 - Escriure cada issue com una **User Story**:
