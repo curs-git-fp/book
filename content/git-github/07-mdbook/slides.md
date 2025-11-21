@@ -39,6 +39,8 @@ cargo install mdbook
 
 ## Estructura bàsica
 
+Crear estructura bàsica amb `mdbook init`
+
 - `book.toml`: configuració del llibre.
 - `src/SUMMARY.md`: índex de continguts.
 - `src/*.md`: capítols en Markdown.
